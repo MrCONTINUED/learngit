@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Hello, July!
 Fighting, July!
 Git has a mutable index called stage.
+Git tracks changes.
